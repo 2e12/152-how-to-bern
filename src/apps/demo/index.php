@@ -12,5 +12,5 @@ binder::addGlobal(1, function($req, $res){
 });
 
 binder::addOnError(1, function($req, $res){
-  echo "Nothing to see<br>";
+  echo "<h1>An Error occured - No page found 404</h1>";
 });
