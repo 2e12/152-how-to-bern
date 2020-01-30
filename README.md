@@ -1,5 +1,9 @@
 # How To Bern
 
+## Preview
+- [Master branch](https://master152.herokuapp.com/)
+- [Develop branch](https://dev152.herokuapp.com/)
+
 ## Pull Requests
 
 1. NEVER commit directly in the `master/develop` branch. 
