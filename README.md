@@ -1,5 +1,13 @@
 # How To Bern
 
+## Pull Requests
+
+1. NEVER commit directly in the `master/develop` branch. 
+2. Create a new branch like `gbe/my-new-feature` ontop of the`develop` branch.
+3. Commit to your branch & push it to github
+4. Create a Pull Request and don't merge it to the `develop` until it's approved by someone else.
+
+
 ## Roles
 
 ### Head of Planning
