@@ -11,7 +11,7 @@
 
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -19,10 +19,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link navColor" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle navColor" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Galleries
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -66,12 +66,14 @@
 
     <!-- Content -->
     <div class="container-md">
-        <h1>How to Bern</h1>
-        <h2>This is a small Project to show some hidden gems of this wonderful city.</h2>
+        <h1 class="title">How to Bern</h1>
+        <h2>Discover the Secret Gems</h2>
+
+        <hr>
 
         <h3>About Us</h3>
         <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-
+        <hr>
         <!-- Links to Galleries -->
         <h4>Visit our Galleries</h4>
         <div class="card-group">
@@ -84,7 +86,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="..." class="card-img-top" alt="...">
+                <img alt="..." class="card-img-top" src="/assets/images/gabriel_portrait.jpeg">
                 <div class="card-body">
                     <h5 class="card-title">Gabriel Beutler</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -94,7 +96,7 @@
             <div class="card">
                 <img src="..." class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Heiko Nuding</h5>
+                    <h5 class="card-title">Haiko Nuding</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="btn btn-primary">Visit page</a>
                 </div>

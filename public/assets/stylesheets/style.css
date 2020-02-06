@@ -7,3 +7,11 @@
     max-height: 600px;
     height: 30%;
 }
+
+.title {
+    font-size: 4rem;
+}
+
+.navColor {
+    color: white;
+}
