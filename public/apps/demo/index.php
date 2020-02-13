@@ -1,19 +1,10 @@
 <?php
-require_once("/binder/view.php");
+require_once("binder/view.php");
 
-binder::add(8, "myid\/", function($req, $res){
-  echo "Hello! Your visitor id is <strong>" . $req->visitor->uid . "</strong>.<br>";
-  $view = view("main");
-});
 
-binder::add(5, "myid\/", function($req, $res){
-  echo "Bye! Your visitor id is <strong>" . $req->visitor->uid . "</strong>.<br>";
-});
-
-binder::addGlobal(1, function($req, $res){
-  echo "Hei<br>";
-});
-
-binder::addOnError(1, function($req, $res){
-  echo "<h1>An Error occured - No page found 404</h1>";
+binder::add(10, "test\/", function($req, $res){
+  $view = new view("main");
+  $view->content = "Hello! Your visitor id is <strong>" . $req->visitor->uid . "</strong>.<br>";
+  $view->title = "Hello World";
+  $view->display();
 });
