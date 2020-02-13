@@ -4,7 +4,7 @@ class view{
   private $properties = array();
 
   function __construct($file){
-    $this->$file = $file;
+    $this->file = preg_replace("/[^A-Za-z0-9]/",'', $file);
   }
 
   public function __set($key, $value){
@@ -15,6 +15,7 @@ class view{
 
   public function display(){
       extract($this->properties);
+      include("template/" . $this->file . ".php");
   }
 
   public function __get($key){
