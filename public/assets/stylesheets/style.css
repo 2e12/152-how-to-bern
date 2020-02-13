@@ -1,0 +1,17 @@
+.container {
+    width: 70%;
+    max-width: 1300px;
+}
+
+.carouselImg {
+    max-height: 600px;
+    height: 30%;
+}
+
+.title {
+    font-size: 4rem;
+}
+
+.navColor {
+    color: white;
+}
