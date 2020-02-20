@@ -8,3 +8,4 @@ binder::add(10, "test\/", function($req, $res){
   $view->title = "Hello World";
   $view->display();
 });
+
