@@ -15,7 +15,9 @@ class view{
 
   public function display(){
       extract($this->properties);
+      include("template/header.php");
       include("template/" . $this->file . ".php");
+      include("template/footer.php");
   }
 
   public function __get($key){
