@@ -1,6 +1,10 @@
 <?php
-binder::add(9, "", function ($reg, $res) {
+binder::add(1, "", function ($reg, $res) {
   require 'Templates/home.php';
+});
+
+binder::add(8, "sascha\/", function ($reg, $res) {
+  require 'Templates/Sascha/index.php';
 });
 
 binder::addOnError(1, function ($req, $res) {
