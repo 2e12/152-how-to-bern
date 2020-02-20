@@ -7,13 +7,13 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active carouselImg">
-                <img src="/assets/images/img_1.jpeg" class="d-block w-100" alt="...">
+                <img src="/assets/images/img_1.jpeg" class="d-block w-100" alt="">
             </div>
             <div class="carousel-item carouselImg">
-                <img src="/assets/images/img_2.jpeg" class="d-block w-100" alt="...">
+                <img src="/assets/images/img_2.jpeg" class="d-block w-100" alt="">
             </div>
             <div class="carousel-item carouselImg">
-                <img src="/assets/images/img_3.jpeg" class="d-block w-100" alt="...">
+                <img src="/assets/images/img_3.jpeg" class="d-block w-100" alt="">
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -40,7 +40,7 @@
         <h4>Visit our Galleries</h4>
         <div class="card-group">
             <div class="card">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="/assets/images/luca_portrait.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Luca Brügger</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="card">
-                <img alt="..." class="card-img-top" src="/assets/images/gabriel_portrait.jpeg">
+                <img src="/assets/images/gabriel_portrait.jpeg" class="card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">Gabriel Beutler</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -56,7 +56,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="/assets/images/haiko_portrait.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Haiko Nuding</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
