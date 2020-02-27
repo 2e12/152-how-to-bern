@@ -1,9 +1,11 @@
 <?php
+require_once("binder/view.php");
+
 binder::addOnError(1, function ($req, $res) {
   echo "<h1>An Error occured - No page found 404</h1>";
 });
 
-binder::add(10, "home\/", function($req, $res){
+binder::add(1, "", function($req, $res){
   $view = new view("home");
   $view->title = "How to Bern | Your Guide to the capital of Bern";
   $view->display();
