@@ -81,7 +81,7 @@
           </div>
           <div class="card-body">
               <h5 class="card-title">Luca Brügger</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+              <p class="card-text">Tesla and Elon Musk fan, drone pilot and a talented web designer.</p>
               <div class="col-lg-12">
               <a href="/luca/" class="btn col-lg-12 offset-4" style="border: 1px solid black; margin: 0 auto;">Visit Luca</a>
               </div>
@@ -94,7 +94,7 @@
           </div>
           <div class="card-body">
               <h5 class="card-title">Gabriel Beutler</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+              <p class="card-text">Enthusiastic programmer and someone who likes to take things slowly.</p>
               <div class="col-lg-12">
               <a href="/gabriel/" class="btn col-lg-12 offset-4" style="border: 1px solid black; margin: 0 auto;">Visit Gabriel</a>
               </div>
@@ -103,11 +103,11 @@
       <div class="d-none d-sm-block" style="height:100%; width: 30px;"></div>
       <div class="card" style="border-radius: 30px; border: 1px solid grey;">
       <div style="margin-bottom:25px; padding-top: 25px;margin: auto auto;">
-          <img src="/assets/images/placeholder.svg" class="card-img-top" style="width: 220px; height: 220px; object-fit:cover;margin: auto auto;">
+          <img src="/assets/images/haiko_portrait.jpg" class="card-img-top" style="width: 220px; height: 220px; object-fit:cover;margin: auto auto;">
           </div>
           <div class="card-body">
               <h5 class="card-title">Haiko Nuding</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+              <p class="card-text">The nicest person you will ever meet and fan of Asian comic culture.</p>
               <div class="col-lg-12">
               <a href="/haiko/" class="btn col-lg-12 offset-4" style="border:1px solid black; margin: 0 auto;">Visit Haiko</a>
               </div>
@@ -120,7 +120,7 @@
           </div>
           <div class="card-body">
               <h5 class="card-title">Sascha Kobler</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+              <p class="card-text">Talented downhiller and skilled apprentice at Swisscom.</p>
               <div class="col-lg-12">
               <a href="/sascha/" class="btn col-lg-12 offset-4" style="border: 1px solid black; margin: 0 auto;">Visit Sascha</a>
               </div>
