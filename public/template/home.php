@@ -32,13 +32,12 @@
        </header>
        <div class="row align-items-center">
          <div class="col-lg-12 mb-6 mb-lg-12 text-center">
-
            <p class="lead col-lg-12">Betrachten sie die Stadt Bern genauer in diesem Video</p>
-           <video src="Demofilm.mp4" controls class="col-lg-12">
-             Your browser isn\`'`t able to play The Video<br/>
-             The Movie shows an short tour through the City of Bern
-             Do not hesitate to watch the movie here: <a href="#">Link-Addresse</a> abrufen.
-           </video>
+           <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0; overflow: hidden;">
+             <iframe frameborder="0" allowfullscreen="allowfullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+             src="https://www.youtube.com/embed/QQz51-w0KpI">
+             </iframe>
+          </div>
          </div>
        </div>
      </div>
