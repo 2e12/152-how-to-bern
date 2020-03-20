@@ -2,11 +2,23 @@
     margin-bottom: 150px;
 }
 
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid black;
+}
+
+.line-height-50 {
+    line-height: 50px;
+}
+
 .footer {
-    margin-top: 50px;
-    height: 150px;
-    background-color: rgb(172, 172, 172);
+    margin-bottom: -6rem;
+    margin-top: 3rem;
+    height: 50px;
     text-align: center;
+    color: #333333;
 }
 
 .container {
@@ -27,6 +39,12 @@
     color: white;
 }
 
+.montserrat {
+  font-family: 'Montserrat';
+}
+
 #footerTitle {
     font-size: 2.5rem;
 }
+
+
