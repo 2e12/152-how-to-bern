@@ -16,7 +16,8 @@
            <h2 class="text-uppercase lined">Bern</h2>
          </header>
        <div class="row align-items-center">
-         <div class="col-lg-12 mb-4 mb-lg-0">
+       <div class="d-none d-sm-block offset-3"></div>
+         <div class="col-lg-6 mb-4 mb-lg-0">
            <p>Bern ist die Hauptstadt der Schweiz und liegt im Herzen Europas. Bern ist weltbekannt für seine Altstadt, welche ein UNESCO-Weltkulturerbe ist. Wir legten entsprechend den Fokus auf Bern, insbesondere auf die Altstadt. Jeder von uns präsentiert auf dieser Seite 3 seiner besten Bilder, die im Rahmen des Moduls 152 entstanden sind.</p>
          </div>
        </div>
