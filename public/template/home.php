@@ -12,12 +12,12 @@
 
  <div class="d-flex h-100 align-items-center">
      <div class="container">
+       <header class="text-center">
+           <h2 class="text-uppercase lined">Bern</h2>
+         </header>
        <div class="row align-items-center">
          <div class="col-lg-12 mb-4 mb-lg-0">
-
-           <p class="lead">This can be an about section or anything else ;)</p>
-           <p>Impossible considered invitation him men instrument saw celebrated unpleasant. Put rest and must set kind next many near nay. He exquisite continued explained middleton am. Voice hours young woody has she think equal. Estate moment he at on wonder at season little. Six garden result summer set family esteem nay estate. End admiration mrs unreserved discovered comparison especially invitation.</p>
-           <p>Delightful unreserved impossible few estimating men favourable see entreaties. She propriety immediate was improving. He or entrance humoured likewise moderate. Much nor game son say feel. Fat make met can must form into gate. Me we offending prevailed discovery.</p>
+           <p>Bern ist die Hauptstadt der Schweiz und liegt im Herzen Europas. Bern ist weltbekannt für seine Altstadt, welche ein UNESCO-Weltkulturerbe ist. Wir legten entsprechend den Fokus auf Bern, insbesondere auf die Altstadt. Jeder von uns präsentiert auf dieser Seite 3 seiner besten Bilder, die im Rahmen des Moduls 152 entstanden sind.</p>
          </div>
        </div>
      </div>
