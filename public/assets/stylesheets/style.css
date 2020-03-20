@@ -1,0 +1,50 @@
+.body {
+    margin-bottom: 150px;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid black;
+}
+
+.line-height-50 {
+    line-height: 50px;
+}
+
+.footer {
+    margin-bottom: -6rem;
+    margin-top: 3rem;
+    height: 50px;
+    text-align: center;
+    color: #333333;
+}
+
+.container {
+    width: 70%;
+    max-width: 1300px;
+}
+
+.carouselImg {
+    max-height: 600px;
+    height: 30%;
+}
+
+.title {
+    font-size: 4rem;
+}
+
+.navColor {
+    color: white;
+}
+
+.montserrat {
+  font-family: 'Montserrat';
+}
+
+#footerTitle {
+    font-size: 2.5rem;
+}
+
+
