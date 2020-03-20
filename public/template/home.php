@@ -90,7 +90,7 @@
       <div class="d-none d-sm-block" style="height:100%; width: 30px;"></div>
       <div class="card" style="border-radius: 30px; border: 1px solid grey;">
           <div style="margin-bottom:25px; padding-top: 25px;margin: auto auto;">
-          <img src="/assets/images/gabriel_portrait.jpeg" class="card-img-top" style="width: 220px; height: 220px; object-fit:cover;margin: auto auto;">
+          <img src="https://de.gravatar.com/userimage/175406973/c7dfcd440e320a360b40c1429616b895.jpg?size=400" class="card-img-top" style="width: 220px; height: 220px; object-fit:cover;margin: auto auto;">
           </div>
           <div class="card-body">
               <h5 class="card-title">Gabriel Beutler</h5>
