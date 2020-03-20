@@ -42,26 +42,6 @@
        </div>
      </div>
    </div>
-
-</section>
-<section id="1">
-  <div class="d-flex h-100 align-items-center">
-     <div class="container">
-     <header class="text-center">
-         <h2 class="text-uppercase lined">Und natürlich</h2>
-       </header>
-       <div class="row align-items-center">
-         <div class="col-lg-12 mb-6 mb-lg-12 text-center">
-           <p class="lead col-lg-12">mögen wir Livestreams...</p>
-           <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0; overflow: hidden;">
-           <iframe frameborder="0" allowfullscreen="allowfullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-           src="https://www.youtube.com/embed/8emLVvAQnI8?autoplay=1">
-           </iframe>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>
 </section>
 
 <section id="1">
@@ -128,3 +108,23 @@
   </div>
   </div>
 </div>
+</section>
+
+<section id="1">
+  <div class="d-flex h-100 align-items-center">
+     <div class="container">
+     <header class="text-center">
+         <h2 class="text-uppercase lined">Und natürlich</h2>
+       </header>
+       <div class="row align-items-center">
+         <div class="col-lg-12 mb-6 mb-lg-12 text-center">
+           <p class="lead col-lg-12">mögen wir Livestreams...</p>
+           <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0; overflow: hidden;">
+           <iframe frameborder="0" allowfullscreen="allowfullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+           src="https://www.youtube.com/embed/8emLVvAQnI8?autoplay=1">
+           </iframe>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
