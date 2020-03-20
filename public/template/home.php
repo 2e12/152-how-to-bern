@@ -3,7 +3,7 @@
   <div class="dark-overlay"></div>
   <div class="position-relative z-index-1" >
     <div class="container text-center text-white">
-      <h1 class="text-uppercase my-4">Willkommen</h1>
+      <h1 class="text-uppercase my-4">How2Bern</h1>
     </div>
   </div>
   <div class="scroll-btn link-scroll"><i class="fas fa-angle-double-down"></i></div>
